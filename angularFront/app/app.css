@@ -1,0 +1,9 @@
+body {
+  padding-top: 20px;
+}
+.articles{list-style:none;}
+.article{border:1px solid #cccccc;border-radius: 5px;padding:10px;margin:10px 20px}
+.floated{float:left}
+.floated > img{margin:5px}
+h4> a{color: #999999;}
+.content .author{text-align: right;font-weight: 600}
